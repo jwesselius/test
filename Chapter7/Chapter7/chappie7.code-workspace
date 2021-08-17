@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../Chapter 2"
+		},
+		{
+			"path": "../Chapter 3"
+		},
+		{
+			"path": "../Chapter 4"
+		},
+		{
+			"path": "../Chapter5"
+		},
+		{
+			"path": "../Chapter6"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Chapter7"
+	}
+}
